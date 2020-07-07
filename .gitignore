@@ -1,0 +1,7 @@
+/.dart_tool
+/.idea
+/.metadata
+/.packages
+/build
+/flutter_chat.iml
+/pubspec.lock
